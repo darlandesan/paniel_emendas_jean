@@ -1,0 +1,7 @@
+pandas
+dash
+plotly
+requests
+fpdf
+kaleido==0.2.1
+gunicorn
